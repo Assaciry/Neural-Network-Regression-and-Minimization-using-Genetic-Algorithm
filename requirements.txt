@@ -1,0 +1,6 @@
+geneticalgorithm
+numpy
+pandas
+scikit
+time
+torch
